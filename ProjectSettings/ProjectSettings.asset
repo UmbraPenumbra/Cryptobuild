@@ -134,7 +134,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 2021.1.0
+  bundleVersion: 0.1.0
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 0}
@@ -161,6 +161,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Standalone: com.UnityTechnologies.LostCrypt
+    iPhone: com.Cryptobuild.Cryptobuild
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -836,7 +837,7 @@ PlayerSettings:
   allowUnsafeCode: 0
   useDeterministicCompilation: 1
   enableRoslynAnalyzers: 1
-  selectedPlatform: 4
+  selectedPlatform: 3
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
   gcIncremental: 0
