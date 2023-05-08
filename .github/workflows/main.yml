@@ -1,4 +1,4 @@
-name: Run Actions
+name: Run Builds
 
 on: 
   workflow_dispatch: {}
